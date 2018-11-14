@@ -5,6 +5,9 @@
 * [Javascript (and git, java...) cheatsheets](http://overapi.com/javascript)
 * [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript)
 
+## HTML
+ * [HTML cheat sheets](https://htmlcheatsheet.com/)
+
 ## Redux
 * [Redux cheat sheet (PDF)](https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf)
 

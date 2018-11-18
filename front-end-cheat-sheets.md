@@ -1,4 +1,4 @@
-# Front End Cheat Sheets
+# Front End
 
 ## Javascript
 * [Collection of web development cheatsheets](https://devhints.io/). Includes a lot of cheat sheets (e.g. vim, css, es6, React.js and etc)

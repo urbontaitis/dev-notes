@@ -1,5 +1,7 @@
 # Tools
 
+* [IntelliJ Wizardry with Heinz Kabutz (Video)](https://javaspecialists.teachable.com/courses/256104/lectures/3988130) 
+
 ## Mac OS
 * [Alfred](https://www.alfredapp.com/) - 
 * [Spectacle](https://github.com/eczarny/spectacle) - 

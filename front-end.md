@@ -1,5 +1,11 @@
 # Front End
 
+* [Front End Checklist](https://frontendchecklist.io/)
+
+## Website Speed tests
+* [Pingdom](https://tools.pingdom.com/)
+* [Yellow Lab Tools](https://yellowlab.tools/)
+
 ## Javascript
 * [Collection of web development cheatsheets](https://devhints.io/). Includes a lot of cheat sheets (e.g. vim, css, es6, React.js and etc)
 * [Javascript (and git, java...) cheatsheets](http://overapi.com/javascript)

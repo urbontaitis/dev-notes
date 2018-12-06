@@ -10,3 +10,6 @@
   * [Oh My ZSH!](https://ohmyz.sh/) -
 * [Karabiner](https://pqrs.org/osx/karabiner/) - A keyboard customizer for macOS. 
 * [Mac OS development environment setup](https://github.com/donnemartin/dev-setup)
+
+## Windows
+ * [How to add more to Git Bash on Windows](https://gist.github.com/evanwill/0207876c3243bbb6863e65ec5dc3f058)

@@ -13,3 +13,6 @@
 
 ## Windows
  * [How to add more to Git Bash on Windows](https://gist.github.com/evanwill/0207876c3243bbb6863e65ec5dc3f058)
+ * [WinZSH](http://zsh-nt.sourceforge.net/download.html)
+ * Oh My ZSH on MINGW64: 
+   * ```wget --no-check-certificate https://raw.github.com/haithembelhaj/oh-my-cygwin/master/oh-my-cygwin.sh -O install.sh```

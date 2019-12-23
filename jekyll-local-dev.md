@@ -7,4 +7,4 @@
 ```bundle exec jekyll serve```
 
 ## Update Jekyll site dependencies
-```bundle update```
+```bundle update``` [bundle docs](https://bundler.io/docs.html)

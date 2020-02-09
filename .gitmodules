@@ -1,0 +1,3 @@
+[submodule "code/vue/awesome-vue"]
+	path = code/vue/awesome-vue
+	url = https://github.com/vuejs/awesome-vue

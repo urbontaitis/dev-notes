@@ -14,8 +14,6 @@ docker rm $(docker ps -a -q)
 docker save -o <path for generated tar file> <image name>
 
 # Client
-docker save -o ~/Downloads/myfile.tar centos:16
-
-# Source https://stackoverflow.com/a/23938978
+docker load -i ~/Downloads/myfile.tar <image name>
 ```
-
+> Source https://stackoverflow.com/a/23938978

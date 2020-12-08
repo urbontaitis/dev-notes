@@ -16,3 +16,8 @@ sudo gem install bundler
 ```bash
 scp archive.zip root@HOST_IP:~/Downloads
 ```
+
+## Check who is using specified port
+```bash
+lsof -nP -iTCP:$PORT | grep LISTEN
+```

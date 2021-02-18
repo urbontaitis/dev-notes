@@ -6,3 +6,14 @@ sudo open /System/Library/CoreServices/KeyboardSetupAssistant.app/Contents/MacOS
 ```
 >Source [http://m10lmac.blogspot.com/2009/12/fixing-keyboard-type-problems.html](http://m10lmac.blogspot.com/2009/12/fixing-keyboard-type-problems.html)
 
+
+
+## Reboot into recovery via terminal
+```bash
+sudo nvram "recovery-boot-mode=unused"
+sudo reboot
+
+# back to normal
+nvram -d recovery-boot-mode
+```
+

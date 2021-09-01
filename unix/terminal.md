@@ -21,3 +21,23 @@ scp archive.zip root@HOST_IP:~/Downloads
 ```bash
 lsof -nP -iTCP:$PORT | grep LISTEN
 ```
+
+
+## Change Lenovo conservation mode (requires sudo)
+
+
+reading the current status:
+
+```bash
+cat /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/conservation_mode
+```
+
+enable Conservation mode:
+```bash
+echo 1  >  /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/conservation_mode
+```
+
+disable conservation mode:
+```bash
+echo 0  > /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/conservation_mode
+```

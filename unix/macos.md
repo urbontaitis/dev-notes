@@ -17,3 +17,14 @@ sudo reboot
 nvram -d recovery-boot-mode
 ```
 
+## iPhone hotspot issue with FortiClient and IPV6
+
+You need to disbale IPv6 on Wi-Fi adapter:
+```bash
+sudo networksetup -setv6off Wi-Fi
+```
+
+# To verify configuration:
+```bash
+networksetup -getinfo Wi-Fi
+```

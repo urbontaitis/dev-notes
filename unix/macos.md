@@ -22,9 +22,8 @@ nvram -d recovery-boot-mode
 You need to disbale IPv6 on Wi-Fi adapter:
 ```bash
 sudo networksetup -setv6off Wi-Fi
-```
 
 # To verify configuration:
-```bash
+
 networksetup -getinfo Wi-Fi
 ```
